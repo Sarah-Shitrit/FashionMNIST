@@ -1,4 +1,4 @@
-# FashionMNIST
+# Goal
  The goal is to compare different regularizations: weight decay, dropout and batch nornalization with one another and with LENET-5 without regularization. The criterion for comparison is the accuracy.
  
 ## General explanation:
